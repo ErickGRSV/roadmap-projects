@@ -4,8 +4,10 @@ Lista de projetos feitos:
 
 <h1>Single Page CV</h1>
 https://roadmap.sh/projects/single-page-cv
+<br>
 https://github.com/ErickGRSV/roadmap-projects/blob/main/singlepage/index.html
 
 <h1>Task Tracker</h1>
 https://roadmap.sh/projects/task-tracker-js
+<br>
 https://github.com/ErickGRSV/roadmap-projects/tree/main/taskTracker
